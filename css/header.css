@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+header{
+    background-color: #9370DB;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+#profile-center{
+    height: 190px;
+    width: 190px;
+    border: 25px solid #DA70D6;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 40%;
+}
+
+header h1{
+    margin: 0px;
+    font-size: 50px;
+    font-family: "Potta One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.heading{
+    padding: 0;
+}
